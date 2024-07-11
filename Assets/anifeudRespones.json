@@ -1,0 +1,2882 @@
+[
+    {
+        "Question": "Name a Japanese word an otaku would use.",
+        "Answers": [
+            {
+                "Value": "arigatougozaimasu",
+                "Occurrence": 1
+            },
+            {
+                "Value": "imoutochan",
+                "Occurrence": 1
+            },
+            {
+                "Value": "nani",
+                "Occurrence": 5
+            },
+            {
+                "Value": "kawaii",
+                "Occurrence": 4
+            },
+            {
+                "Value": "onee-chan",
+                "Occurrence": 1
+            },
+            {
+                "Value": "baka",
+                "Occurrence": 8
+            },
+            {
+                "Value": "waifu",
+                "Occurrence": 3
+            },
+            {
+                "Value": "yamero",
+                "Occurrence": 1
+            },
+            {
+                "Value": "tsundere",
+                "Occurrence": 1
+            },
+            {
+                "Value": "nan",
+                "Occurrence": 6
+            },
+            {
+                "Value": "hentai",
+                "Occurrence": 1
+            },
+            {
+                "Value": "onegai",
+                "Occurrence": 1
+            },
+            {
+                "Value": "sempai",
+                "Occurrence": 1
+            },
+            {
+                "Value": "senpai",
+                "Occurrence": 2
+            },
+            {
+                "Value": "gomenasai",
+                "Occurrence": 1
+            },
+            {
+                "Value": "ohayo",
+                "Occurrence": 1
+            },
+            {
+                "Value": "moe",
+                "Occurrence": 1
+            },
+            {
+                "Value": "sugoi",
+                "Occurrence": 1
+            }
+        ],
+        "Top8": [
+            {
+                "Value": "baka",
+                "Occurrence": 8
+            },
+            {
+                "Value": "nan",
+                "Occurrence": 6
+            },
+            {
+                "Value": "nani",
+                "Occurrence": 5
+            },
+            {
+                "Value": "kawaii",
+                "Occurrence": 4
+            },
+            {
+                "Value": "waifu",
+                "Occurrence": 3
+            },
+            {
+                "Value": "senpai",
+                "Occurrence": 2
+            },
+            {
+                "Value": "arigatougozaimasu",
+                "Occurrence": 1
+            },
+            {
+                "Value": "imoutochan",
+                "Occurrence": 1
+            }
+        ]
+    },
+    {
+        "Question": "Name a classic anime that every fan should watch.",
+        "Answers": [
+            {
+                "Value": "gintama",
+                "Occurrence": 1
+            },
+            {
+                "Value": "codegeass",
+                "Occurrence": 1
+            },
+            {
+                "Value": "cowboybepop",
+                "Occurrence": 1
+            },
+            {
+                "Value": "fmabrotherhood",
+                "Occurrence": 1
+            },
+            {
+                "Value": "fruit'sbasket",
+                "Occurrence": 1
+            },
+            {
+                "Value": "fullmetalalchemist",
+                "Occurrence": 3
+            },
+            {
+                "Value": "berserk",
+                "Occurrence": 1
+            },
+            {
+                "Value": "cowboybebop",
+                "Occurrence": 5
+            },
+            {
+                "Value": "fullmetalalchemistbrotherhood",
+                "Occurrence": 2
+            },
+            {
+                "Value": "iguessicanjustsaydragonballoronepiece.",
+                "Occurrence": 1
+            },
+            {
+                "Value": "princeoftennis",
+                "Occurrence": 1
+            },
+            {
+                "Value": "evangeleon",
+                "Occurrence": 1
+            },
+            {
+                "Value": "deathnote",
+                "Occurrence": 1
+            },
+            {
+                "Value": "yuyu",
+                "Occurrence": 1
+            },
+            {
+                "Value": "ghoststories",
+                "Occurrence": 1
+            },
+            {
+                "Value": "yuyuhakusho",
+                "Occurrence": 3
+            },
+            {
+                "Value": "haikyuu",
+                "Occurrence": 1
+            },
+            {
+                "Value": "nan",
+                "Occurrence": 2
+            },
+            {
+                "Value": "yuyuhakasho",
+                "Occurrence": 1
+            },
+            {
+                "Value": "naruto",
+                "Occurrence": 1
+            },
+            {
+                "Value": "dragonball",
+                "Occurrence": 3
+            },
+            {
+                "Value": "azumangadaioh",
+                "Occurrence": 1
+            },
+            {
+                "Value": "sailormoon",
+                "Occurrence": 1
+            },
+            {
+                "Value": "hunterxhunter(2011)",
+                "Occurrence": 1
+            },
+            {
+                "Value": "hunterxhunter",
+                "Occurrence": 1
+            },
+            {
+                "Value": "onepiece",
+                "Occurrence": 1
+            },
+            {
+                "Value": "shikabanehime",
+                "Occurrence": 1
+            },
+            {
+                "Value": "fmab",
+                "Occurrence": 1
+            }
+        ],
+        "Top8": [
+            {
+                "Value": "cowboybebop",
+                "Occurrence": 5
+            },
+            {
+                "Value": "fullmetalalchemist",
+                "Occurrence": 3
+            },
+            {
+                "Value": "yuyuhakusho",
+                "Occurrence": 3
+            },
+            {
+                "Value": "dragonball",
+                "Occurrence": 3
+            },
+            {
+                "Value": "fullmetalalchemistbrotherhood",
+                "Occurrence": 2
+            },
+            {
+                "Value": "nan",
+                "Occurrence": 2
+            },
+            {
+                "Value": "gintama",
+                "Occurrence": 1
+            },
+            {
+                "Value": "codegeass",
+                "Occurrence": 1
+            }
+        ]
+    },
+    {
+        "Question": "Name a manga that fans believe was ruined by its anime adaptation.",
+        "Answers": [
+            {
+                "Value": "souleater",
+                "Occurrence": 1
+            },
+            {
+                "Value": "deadmanwonderland",
+                "Occurrence": 1
+            },
+            {
+                "Value": "bleach",
+                "Occurrence": 2
+            },
+            {
+                "Value": "tokyoghoul",
+                "Occurrence": 7
+            },
+            {
+                "Value": "chainsawman",
+                "Occurrence": 1
+            },
+            {
+                "Value": "promisedneverland",
+                "Occurrence": 8
+            },
+            {
+                "Value": "jojostoneocean",
+                "Occurrence": 1
+            },
+            {
+                "Value": "berserk",
+                "Occurrence": 4
+            },
+            {
+                "Value": "nan",
+                "Occurrence": 6
+            },
+            {
+                "Value": "promisedneverlandseason2",
+                "Occurrence": 1
+            },
+            {
+                "Value": "demonslayer",
+                "Occurrence": 1
+            },
+            {
+                "Value": "junjiitocollection",
+                "Occurrence": 1
+            },
+            {
+                "Value": "hmmmm",
+                "Occurrence": 1
+            },
+            {
+                "Value": "thepromisedneverland",
+                "Occurrence": 2
+            },
+            {
+                "Value": "thepromiseneverland,twinstarexorcistandtokyoghoul",
+                "Occurrence": 1
+            },
+            {
+                "Value": "promiseneverland",
+                "Occurrence": 1
+            },
+            {
+                "Value": "thepromiseneverland",
+                "Occurrence": 1
+            }
+        ],
+        "Top8": [
+            {
+                "Value": "promisedneverland",
+                "Occurrence": 8
+            },
+            {
+                "Value": "tokyoghoul",
+                "Occurrence": 7
+            },
+            {
+                "Value": "nan",
+                "Occurrence": 6
+            },
+            {
+                "Value": "berserk",
+                "Occurrence": 4
+            },
+            {
+                "Value": "bleach",
+                "Occurrence": 2
+            },
+            {
+                "Value": "thepromisedneverland",
+                "Occurrence": 2
+            },
+            {
+                "Value": "souleater",
+                "Occurrence": 1
+            },
+            {
+                "Value": "deadmanwonderland",
+                "Occurrence": 1
+            }
+        ]
+    },
+    {
+        "Question": "Anime with the most divisive ending",
+        "Answers": [
+            {
+                "Value": "fmabrotherhod",
+                "Occurrence": 1
+            },
+            {
+                "Value": "attackontitan",
+                "Occurrence": 9
+            },
+            {
+                "Value": "hxharc4",
+                "Occurrence": 1
+            },
+            {
+                "Value": "souleater",
+                "Occurrence": 3
+            },
+            {
+                "Value": "deathnote",
+                "Occurrence": 2
+            },
+            {
+                "Value": "madokarebellion",
+                "Occurrence": 1
+            },
+            {
+                "Value": "possiblyattackontitan,butthefandomkindofchilledoutwhentheanimatedendingcameout.",
+                "Occurrence": 1
+            },
+            {
+                "Value": "vampireknight",
+                "Occurrence": 1
+            },
+            {
+                "Value": "neji",
+                "Occurrence": 1
+            },
+            {
+                "Value": "daringinthefranxx",
+                "Occurrence": 1
+            },
+            {
+                "Value": "attackontitans",
+                "Occurrence": 1
+            },
+            {
+                "Value": "naruto",
+                "Occurrence": 2
+            },
+            {
+                "Value": "nan",
+                "Occurrence": 5
+            },
+            {
+                "Value": "tokyorevengers",
+                "Occurrence": 1
+            },
+            {
+                "Value": "bleach",
+                "Occurrence": 1
+            },
+            {
+                "Value": "neongenesisevangelion",
+                "Occurrence": 1
+            },
+            {
+                "Value": "evangelion",
+                "Occurrence": 2
+            },
+            {
+                "Value": "aot",
+                "Occurrence": 1
+            },
+            {
+                "Value": "akamegakill",
+                "Occurrence": 1
+            },
+            {
+                "Value": "erased",
+                "Occurrence": 1
+            },
+            {
+                "Value": "promisedneverland",
+                "Occurrence": 1
+            },
+            {
+                "Value": "konaandthedawn",
+                "Occurrence": 1
+            },
+            {
+                "Value": "demonslayer",
+                "Occurrence": 1
+            }
+        ],
+        "Top8": [
+            {
+                "Value": "attackontitan",
+                "Occurrence": 9
+            },
+            {
+                "Value": "nan",
+                "Occurrence": 5
+            },
+            {
+                "Value": "souleater",
+                "Occurrence": 3
+            },
+            {
+                "Value": "deathnote",
+                "Occurrence": 2
+            },
+            {
+                "Value": "naruto",
+                "Occurrence": 2
+            },
+            {
+                "Value": "evangelion",
+                "Occurrence": 2
+            },
+            {
+                "Value": "fmabrotherhod",
+                "Occurrence": 1
+            },
+            {
+                "Value": "hxharc4",
+                "Occurrence": 1
+            }
+        ]
+    },
+    {
+        "Question": "Your parents walk in on you watching anime. What anime do you not want to be watching?",
+        "Answers": [
+            {
+                "Value": "yurionice",
+                "Occurrence": 1
+            },
+            {
+                "Value": "airgear",
+                "Occurrence": 1
+            },
+            {
+                "Value": "rosario+vampire",
+                "Occurrence": 1
+            },
+            {
+                "Value": "anyharem",
+                "Occurrence": 1
+            },
+            {
+                "Value": "kakeguruiorfoodwars",
+                "Occurrence": 1
+            },
+            {
+                "Value": "killlakill",
+                "Occurrence": 1
+            },
+            {
+                "Value": "myheroacademia",
+                "Occurrence": 1
+            },
+            {
+                "Value": "prisonschool",
+                "Occurrence": 4
+            },
+            {
+                "Value": "elfenlied",
+                "Occurrence": 2
+            },
+            {
+                "Value": "maybechainsawmanbecausemyparentsalsodon'tlikegoreandswearwords.",
+                "Occurrence": 1
+            },
+            {
+                "Value": "flcl",
+                "Occurrence": 1
+            },
+            {
+                "Value": "gushingovermagicalgirls",
+                "Occurrence": 1
+            },
+            {
+                "Value": "devilmancrybaby",
+                "Occurrence": 2
+            },
+            {
+                "Value": "fairytale",
+                "Occurrence": 1
+            },
+            {
+                "Value": "girlsbravo",
+                "Occurrence": 1
+            },
+            {
+                "Value": "foodwars",
+                "Occurrence": 5
+            },
+            {
+                "Value": "nan",
+                "Occurrence": 3
+            },
+            {
+                "Value": "bastard!!heavymetaldarkfantasy",
+                "Occurrence": 1
+            },
+            {
+                "Value": "redoofhealer",
+                "Occurrence": 1
+            },
+            {
+                "Value": "bokunopico",
+                "Occurrence": 1
+            },
+            {
+                "Value": "yaoi",
+                "Occurrence": 1
+            },
+            {
+                "Value": "any",
+                "Occurrence": 1
+            },
+            {
+                "Value": "highschoolofthedead",
+                "Occurrence": 1
+            },
+            {
+                "Value": "berserker",
+                "Occurrence": 1
+            },
+            {
+                "Value": "interspeciesreviewers",
+                "Occurrence": 1
+            },
+            {
+                "Value": "monstermusume",
+                "Occurrence": 1
+            },
+            {
+                "Value": "rentagirlfriend",
+                "Occurrence": 1
+            },
+            {
+                "Value": "jojosbizarreadventure",
+                "Occurrence": 1
+            },
+            {
+                "Value": "highschooldxd",
+                "Occurrence": 1
+            }
+        ],
+        "Top8": [
+            {
+                "Value": "foodwars",
+                "Occurrence": 5
+            },
+            {
+                "Value": "prisonschool",
+                "Occurrence": 4
+            },
+            {
+                "Value": "nan",
+                "Occurrence": 3
+            },
+            {
+                "Value": "elfenlied",
+                "Occurrence": 2
+            },
+            {
+                "Value": "devilmancrybaby",
+                "Occurrence": 2
+            },
+            {
+                "Value": "yurionice",
+                "Occurrence": 1
+            },
+            {
+                "Value": "airgear",
+                "Occurrence": 1
+            },
+            {
+                "Value": "rosario+vampire",
+                "Occurrence": 1
+            }
+        ]
+    },
+    {
+        "Question": "Which anime is often criticized for its portrayal of women?",
+        "Answers": [
+            {
+                "Value": "naruto",
+                "Occurrence": 9
+            },
+            {
+                "Value": "shieldhero",
+                "Occurrence": 1
+            },
+            {
+                "Value": "highschoolofthedead",
+                "Occurrence": 1
+            },
+            {
+                "Value": "keijo!!!!",
+                "Occurrence": 1
+            },
+            {
+                "Value": "myheroacademia",
+                "Occurrence": 1
+            },
+            {
+                "Value": "swordartonline",
+                "Occurrence": 1
+            },
+            {
+                "Value": "onepiece",
+                "Occurrence": 4
+            },
+            {
+                "Value": "heroacademiabecausemostwomentheregivethefeelingthattheyalwaysneedhelpfromsomeone(especiallyuraraka))",
+                "Occurrence": 1
+            },
+            {
+                "Value": "killlakill",
+                "Occurrence": 1
+            },
+            {
+                "Value": "bleach",
+                "Occurrence": 2
+            },
+            {
+                "Value": "gushingovermagicalgirls",
+                "Occurrence": 1
+            },
+            {
+                "Value": "nan",
+                "Occurrence": 6
+            },
+            {
+                "Value": "narutoshippuden",
+                "Occurrence": 1
+            },
+            {
+                "Value": "freezingvibration",
+                "Occurrence": 1
+            },
+            {
+                "Value": "fireforce",
+                "Occurrence": 1
+            },
+            {
+                "Value": "jjk",
+                "Occurrence": 1
+            },
+            {
+                "Value": "somanybutlet\u2019sdonaruto",
+                "Occurrence": 1
+            },
+            {
+                "Value": "bnha",
+                "Occurrence": 1
+            },
+            {
+                "Value": "prisonschool",
+                "Occurrence": 1
+            },
+            {
+                "Value": "sevendeadlysins",
+                "Occurrence": 2
+            },
+            {
+                "Value": "jujustukaisen",
+                "Occurrence": 1
+            },
+            {
+                "Value": "highschooldxd",
+                "Occurrence": 1
+            }
+        ],
+        "Top8": [
+            {
+                "Value": "naruto",
+                "Occurrence": 9
+            },
+            {
+                "Value": "nan",
+                "Occurrence": 6
+            },
+            {
+                "Value": "onepiece",
+                "Occurrence": 4
+            },
+            {
+                "Value": "bleach",
+                "Occurrence": 2
+            },
+            {
+                "Value": "sevendeadlysins",
+                "Occurrence": 2
+            },
+            {
+                "Value": "shieldhero",
+                "Occurrence": 1
+            },
+            {
+                "Value": "highschoolofthedead",
+                "Occurrence": 1
+            },
+            {
+                "Value": "keijo!!!!",
+                "Occurrence": 1
+            }
+        ]
+    },
+    {
+        "Question": "Name an anime that made you cry.",
+        "Answers": [
+            {
+                "Value": "angelbeats",
+                "Occurrence": 5
+            },
+            {
+                "Value": "yu-gi-oh",
+                "Occurrence": 1
+            },
+            {
+                "Value": "anohana",
+                "Occurrence": 1
+            },
+            {
+                "Value": "parasyte",
+                "Occurrence": 1
+            },
+            {
+                "Value": "clannad",
+                "Occurrence": 2
+            },
+            {
+                "Value": "jojo",
+                "Occurrence": 1
+            },
+            {
+                "Value": "violetevergarden",
+                "Occurrence": 2
+            },
+            {
+                "Value": "kotarulivesalone",
+                "Occurrence": 1
+            },
+            {
+                "Value": "ican'tcrywheniactuallywantto,sononesofar.(heroacademiaalmostgetsme))",
+                "Occurrence": 1
+            },
+            {
+                "Value": "erased,angelbeats",
+                "Occurrence": 1
+            },
+            {
+                "Value": "onepiece",
+                "Occurrence": 2
+            },
+            {
+                "Value": "asilentvoice",
+                "Occurrence": 3
+            },
+            {
+                "Value": "assassinationclassroom",
+                "Occurrence": 1
+            },
+            {
+                "Value": "toradora",
+                "Occurrence": 1
+            },
+            {
+                "Value": "youlieinapril",
+                "Occurrence": 1
+            },
+            {
+                "Value": "nan",
+                "Occurrence": 2
+            },
+            {
+                "Value": "yourname",
+                "Occurrence": 1
+            },
+            {
+                "Value": "kiznaiver",
+                "Occurrence": 1
+            },
+            {
+                "Value": "graveofthefireflies",
+                "Occurrence": 2
+            },
+            {
+                "Value": "kotarolivesalone",
+                "Occurrence": 1
+            },
+            {
+                "Value": "erased",
+                "Occurrence": 1
+            },
+            {
+                "Value": "demonslayor",
+                "Occurrence": 1
+            },
+            {
+                "Value": "yourlieinapril",
+                "Occurrence": 1
+            },
+            {
+                "Value": "fruitsbasket",
+                "Occurrence": 2
+            },
+            {
+                "Value": "attackontitan",
+                "Occurrence": 1
+            },
+            {
+                "Value": "therankingofkings",
+                "Occurrence": 1
+            },
+            {
+                "Value": "fullmetalalchemistbrotherhood",
+                "Occurrence": 1
+            },
+            {
+                "Value": "mobpsycho",
+                "Occurrence": 1
+            }
+        ],
+        "Top8": [
+            {
+                "Value": "angelbeats",
+                "Occurrence": 5
+            },
+            {
+                "Value": "asilentvoice",
+                "Occurrence": 3
+            },
+            {
+                "Value": "clannad",
+                "Occurrence": 2
+            },
+            {
+                "Value": "violetevergarden",
+                "Occurrence": 2
+            },
+            {
+                "Value": "onepiece",
+                "Occurrence": 2
+            },
+            {
+                "Value": "nan",
+                "Occurrence": 2
+            },
+            {
+                "Value": "graveofthefireflies",
+                "Occurrence": 2
+            },
+            {
+                "Value": "fruitsbasket",
+                "Occurrence": 2
+            }
+        ]
+    },
+    {
+        "Question": "What's a popular anime cosplay choice?",
+        "Answers": [
+            {
+                "Value": "mitsurikanroji",
+                "Occurrence": 1
+            },
+            {
+                "Value": "ashketchum",
+                "Occurrence": 1
+            },
+            {
+                "Value": "chainsawman",
+                "Occurrence": 3
+            },
+            {
+                "Value": "inosuke",
+                "Occurrence": 1
+            },
+            {
+                "Value": "sailormoon",
+                "Occurrence": 3
+            },
+            {
+                "Value": "l",
+                "Occurrence": 1
+            },
+            {
+                "Value": "myheroacademia",
+                "Occurrence": 1
+            },
+            {
+                "Value": "anyofthemaindemonslayercast(tanjiro,inosuke,zenitsu,nezuko,andalsoshinobuforsomereason))",
+                "Occurrence": 1
+            },
+            {
+                "Value": "nami",
+                "Occurrence": 1
+            },
+            {
+                "Value": "hoyo-verse",
+                "Occurrence": 1
+            },
+            {
+                "Value": "gojosatoru",
+                "Occurrence": 1
+            },
+            {
+                "Value": "demonslayer",
+                "Occurrence": 2
+            },
+            {
+                "Value": "goku",
+                "Occurrence": 1
+            },
+            {
+                "Value": "attackontitan",
+                "Occurrence": 1
+            },
+            {
+                "Value": "jjk",
+                "Occurrence": 1
+            },
+            {
+                "Value": "akatsukimember",
+                "Occurrence": 1
+            },
+            {
+                "Value": "gojo",
+                "Occurrence": 1
+            },
+            {
+                "Value": "bruceleroy",
+                "Occurrence": 1
+            },
+            {
+                "Value": "luffy",
+                "Occurrence": 4
+            },
+            {
+                "Value": "anydemonslayercharacter",
+                "Occurrence": 1
+            },
+            {
+                "Value": "genshinimpact",
+                "Occurrence": 1
+            },
+            {
+                "Value": "tanjiro",
+                "Occurrence": 1
+            },
+            {
+                "Value": "naruto",
+                "Occurrence": 3
+            },
+            {
+                "Value": "nezuko",
+                "Occurrence": 1
+            },
+            {
+                "Value": "nan",
+                "Occurrence": 2
+            },
+            {
+                "Value": "sasuke",
+                "Occurrence": 1
+            },
+            {
+                "Value": "2b",
+                "Occurrence": 1
+            },
+            {
+                "Value": "akatsuki",
+                "Occurrence": 1
+            },
+            {
+                "Value": "akastuki",
+                "Occurrence": 1
+            }
+        ],
+        "Top8": [
+            {
+                "Value": "luffy",
+                "Occurrence": 4
+            },
+            {
+                "Value": "chainsawman",
+                "Occurrence": 3
+            },
+            {
+                "Value": "sailormoon",
+                "Occurrence": 3
+            },
+            {
+                "Value": "naruto",
+                "Occurrence": 3
+            },
+            {
+                "Value": "demonslayer",
+                "Occurrence": 2
+            },
+            {
+                "Value": "nan",
+                "Occurrence": 2
+            },
+            {
+                "Value": "mitsurikanroji",
+                "Occurrence": 1
+            },
+            {
+                "Value": "ashketchum",
+                "Occurrence": 1
+            }
+        ]
+    },
+    {
+        "Question": "Smartest Anime Character",
+        "Answers": [
+            {
+                "Value": "johanliebertfrommonster",
+                "Occurrence": 1
+            },
+            {
+                "Value": "l",
+                "Occurrence": 8
+            },
+            {
+                "Value": "shikamaru",
+                "Occurrence": 2
+            },
+            {
+                "Value": "yangwenli",
+                "Occurrence": 1
+            },
+            {
+                "Value": "saikik",
+                "Occurrence": 2
+            },
+            {
+                "Value": "senku(dr.stone)",
+                "Occurrence": 1
+            },
+            {
+                "Value": "jonathanjoestar",
+                "Occurrence": 1
+            },
+            {
+                "Value": "bulma",
+                "Occurrence": 2
+            },
+            {
+                "Value": "luffy(loljkican'tthinkofany)",
+                "Occurrence": 1
+            },
+            {
+                "Value": "shikamaru\ud83d\ude07",
+                "Occurrence": 1
+            },
+            {
+                "Value": "hawkeye(fullmetal)",
+                "Occurrence": 1
+            },
+            {
+                "Value": "lelouchvibritannia",
+                "Occurrence": 1
+            },
+            {
+                "Value": "edogawaranpo",
+                "Occurrence": 1
+            },
+            {
+                "Value": "lelouch",
+                "Occurrence": 2
+            },
+            {
+                "Value": "sen",
+                "Occurrence": 1
+            },
+            {
+                "Value": "nan",
+                "Occurrence": 4
+            },
+            {
+                "Value": "lelouche",
+                "Occurrence": 1
+            },
+            {
+                "Value": "dr.stone",
+                "Occurrence": 1
+            },
+            {
+                "Value": "senkuishigamidrstone",
+                "Occurrence": 1
+            },
+            {
+                "Value": "lightyagami",
+                "Occurrence": 1
+            },
+            {
+                "Value": "theyreallidiots",
+                "Occurrence": 1
+            },
+            {
+                "Value": "l(deathnote)",
+                "Occurrence": 1
+            },
+            {
+                "Value": "saiki-ki",
+                "Occurrence": 1
+            },
+            {
+                "Value": "senkuishigamifromdr.stone",
+                "Occurrence": 1
+            },
+            {
+                "Value": "aizen",
+                "Occurrence": 1
+            },
+            {
+                "Value": "senkufromdr.stone",
+                "Occurrence": 1
+            }
+        ],
+        "Top8": [
+            {
+                "Value": "l",
+                "Occurrence": 8
+            },
+            {
+                "Value": "nan",
+                "Occurrence": 4
+            },
+            {
+                "Value": "shikamaru",
+                "Occurrence": 2
+            },
+            {
+                "Value": "saikik",
+                "Occurrence": 2
+            },
+            {
+                "Value": "bulma",
+                "Occurrence": 2
+            },
+            {
+                "Value": "lelouch",
+                "Occurrence": 2
+            },
+            {
+                "Value": "johanliebertfrommonster",
+                "Occurrence": 1
+            },
+            {
+                "Value": "yangwenli",
+                "Occurrence": 1
+            }
+        ]
+    },
+    {
+        "Question": "What's a common theme found in many anime?",
+        "Answers": [
+            {
+                "Value": "deadparents",
+                "Occurrence": 2
+            },
+            {
+                "Value": "incest",
+                "Occurrence": 2
+            },
+            {
+                "Value": "thepoweroffriendship",
+                "Occurrence": 2
+            },
+            {
+                "Value": "friendship",
+                "Occurrence": 5
+            },
+            {
+                "Value": "goodvsevil",
+                "Occurrence": 1
+            },
+            {
+                "Value": "wantbethebestat*thing*butbornatdisadvantage",
+                "Occurrence": 1
+            },
+            {
+                "Value": "harems",
+                "Occurrence": 1
+            },
+            {
+                "Value": "rivalstofriends",
+                "Occurrence": 1
+            },
+            {
+                "Value": "charactertrauma=characterdevelopment",
+                "Occurrence": 1
+            },
+            {
+                "Value": "schools.somanyanimeareinsomewayrelatedtoaschool",
+                "Occurrence": 1
+            },
+            {
+                "Value": "nan",
+                "Occurrence": 3
+            },
+            {
+                "Value": "breakfastbread/toast",
+                "Occurrence": 1
+            },
+            {
+                "Value": "poweroffriendship",
+                "Occurrence": 6
+            },
+            {
+                "Value": "noparents",
+                "Occurrence": 1
+            },
+            {
+                "Value": "exorcism",
+                "Occurrence": 1
+            },
+            {
+                "Value": "screamingatthesky",
+                "Occurrence": 1
+            },
+            {
+                "Value": "outcastthatisstrong",
+                "Occurrence": 1
+            },
+            {
+                "Value": "workhard!",
+                "Occurrence": 1
+            },
+            {
+                "Value": "harem",
+                "Occurrence": 1
+            },
+            {
+                "Value": "foundfamily",
+                "Occurrence": 1
+            },
+            {
+                "Value": "deadmom",
+                "Occurrence": 1
+            },
+            {
+                "Value": "friendshipisstrength",
+                "Occurrence": 1
+            },
+            {
+                "Value": "boringmc,hotwaifus",
+                "Occurrence": 1
+            },
+            {
+                "Value": "longtitles",
+                "Occurrence": 1
+            },
+            {
+                "Value": "brainstupidmcbutcrazystrong",
+                "Occurrence": 1
+            },
+            {
+                "Value": "death",
+                "Occurrence": 1
+            }
+        ],
+        "Top8": [
+            {
+                "Value": "poweroffriendship",
+                "Occurrence": 6
+            },
+            {
+                "Value": "friendship",
+                "Occurrence": 5
+            },
+            {
+                "Value": "nan",
+                "Occurrence": 3
+            },
+            {
+                "Value": "deadparents",
+                "Occurrence": 2
+            },
+            {
+                "Value": "incest",
+                "Occurrence": 2
+            },
+            {
+                "Value": "thepoweroffriendship",
+                "Occurrence": 2
+            },
+            {
+                "Value": "goodvsevil",
+                "Occurrence": 1
+            },
+            {
+                "Value": "wantbethebestat*thing*butbornatdisadvantage",
+                "Occurrence": 1
+            }
+        ]
+    },
+    {
+        "Question": "Name an anime that's a cult classic.",
+        "Answers": [
+            {
+                "Value": "samuraichamploo",
+                "Occurrence": 4
+            },
+            {
+                "Value": "neongenesisevangelion",
+                "Occurrence": 2
+            },
+            {
+                "Value": "evangelion",
+                "Occurrence": 2
+            },
+            {
+                "Value": "mushishi",
+                "Occurrence": 1
+            },
+            {
+                "Value": "fruit'sbasket",
+                "Occurrence": 1
+            },
+            {
+                "Value": "yuyuhakasho",
+                "Occurrence": 1
+            },
+            {
+                "Value": "yuyuhakusho",
+                "Occurrence": 1
+            },
+            {
+                "Value": "serialexperimentslain",
+                "Occurrence": 2
+            },
+            {
+                "Value": "totallydragonball,itmadeanimepopular",
+                "Occurrence": 1
+            },
+            {
+                "Value": "deathparade",
+                "Occurrence": 1
+            },
+            {
+                "Value": "schooldays",
+                "Occurrence": 1
+            },
+            {
+                "Value": "nan",
+                "Occurrence": 4
+            },
+            {
+                "Value": "cowboybebop",
+                "Occurrence": 2
+            },
+            {
+                "Value": "yuyu",
+                "Occurrence": 1
+            },
+            {
+                "Value": "ghoststoriesdub",
+                "Occurrence": 1
+            },
+            {
+                "Value": "pantyandstocking",
+                "Occurrence": 1
+            },
+            {
+                "Value": "onepiece",
+                "Occurrence": 1
+            },
+            {
+                "Value": "airmaster",
+                "Occurrence": 1
+            },
+            {
+                "Value": "dragonballz",
+                "Occurrence": 1
+            },
+            {
+                "Value": "madokamagica",
+                "Occurrence": 1
+            },
+            {
+                "Value": "elfenlied",
+                "Occurrence": 1
+            },
+            {
+                "Value": "baki",
+                "Occurrence": 1
+            },
+            {
+                "Value": "berserk",
+                "Occurrence": 1
+            },
+            {
+                "Value": "ghoststories",
+                "Occurrence": 1
+            },
+            {
+                "Value": "revolutionarygirlutena",
+                "Occurrence": 1
+            },
+            {
+                "Value": "ergoproxy",
+                "Occurrence": 1
+            },
+            {
+                "Value": "kino'sjourney",
+                "Occurrence": 1
+            },
+            {
+                "Value": "sailormoon",
+                "Occurrence": 1
+            },
+            {
+                "Value": "inuyasha,dbz",
+                "Occurrence": 1
+            },
+            {
+                "Value": "gurrenlagan",
+                "Occurrence": 1
+            }
+        ],
+        "Top8": [
+            {
+                "Value": "samuraichamploo",
+                "Occurrence": 4
+            },
+            {
+                "Value": "nan",
+                "Occurrence": 4
+            },
+            {
+                "Value": "neongenesisevangelion",
+                "Occurrence": 2
+            },
+            {
+                "Value": "evangelion",
+                "Occurrence": 2
+            },
+            {
+                "Value": "serialexperimentslain",
+                "Occurrence": 2
+            },
+            {
+                "Value": "cowboybebop",
+                "Occurrence": 2
+            },
+            {
+                "Value": "mushishi",
+                "Occurrence": 1
+            },
+            {
+                "Value": "fruit'sbasket",
+                "Occurrence": 1
+            }
+        ]
+    },
+    {
+        "Question": "Worst anime",
+        "Answers": [
+            {
+                "Value": "attackontitan",
+                "Occurrence": 1
+            },
+            {
+                "Value": "swordartonline",
+                "Occurrence": 2
+            },
+            {
+                "Value": "dragonball",
+                "Occurrence": 1
+            },
+            {
+                "Value": "aldnoahzero",
+                "Occurrence": 1
+            },
+            {
+                "Value": "bakonopiko",
+                "Occurrence": 1
+            },
+            {
+                "Value": "prettyboydetectiveagency",
+                "Occurrence": 1
+            },
+            {
+                "Value": "recordofragnarok",
+                "Occurrence": 1
+            },
+            {
+                "Value": "tokyoghoulre",
+                "Occurrence": 1
+            },
+            {
+                "Value": "myheroacademia",
+                "Occurrence": 1
+            },
+            {
+                "Value": "highschooldxdbecauseitsunrealisticallyfan-servicial.",
+                "Occurrence": 1
+            },
+            {
+                "Value": "yu-gi-oh",
+                "Occurrence": 1
+            },
+            {
+                "Value": "nan",
+                "Occurrence": 9
+            },
+            {
+                "Value": "whateverthepersonwhoyouarearguingwithlikes",
+                "Occurrence": 1
+            },
+            {
+                "Value": "fairytale",
+                "Occurrence": 1
+            },
+            {
+                "Value": "pupa",
+                "Occurrence": 1
+            },
+            {
+                "Value": "exarm",
+                "Occurrence": 1
+            },
+            {
+                "Value": "neongenesisevangelion",
+                "Occurrence": 1
+            },
+            {
+                "Value": "bokunopico",
+                "Occurrence": 1
+            },
+            {
+                "Value": "handshakers",
+                "Occurrence": 1
+            },
+            {
+                "Value": "anyisekaiororeimo",
+                "Occurrence": 1
+            },
+            {
+                "Value": "hmmmmm",
+                "Occurrence": 1
+            },
+            {
+                "Value": "deathparade",
+                "Occurrence": 1
+            },
+            {
+                "Value": "junjouromantica",
+                "Occurrence": 1
+            },
+            {
+                "Value": "banishedfromthehero\u2019sparty",
+                "Occurrence": 1
+            },
+            {
+                "Value": "sevendeadlysins",
+                "Occurrence": 1
+            },
+            {
+                "Value": "ghoststoriesinjapanese....",
+                "Occurrence": 1
+            },
+            {
+                "Value": "rentagirlfriend",
+                "Occurrence": 1
+            },
+            {
+                "Value": "hanoka",
+                "Occurrence": 1
+            },
+            {
+                "Value": "shinchan",
+                "Occurrence": 1
+            },
+            {
+                "Value": "naruto",
+                "Occurrence": 1
+            },
+            {
+                "Value": "ex-arm",
+                "Occurrence": 1
+            }
+        ],
+        "Top8": [
+            {
+                "Value": "nan",
+                "Occurrence": 9
+            },
+            {
+                "Value": "swordartonline",
+                "Occurrence": 2
+            },
+            {
+                "Value": "attackontitan",
+                "Occurrence": 1
+            },
+            {
+                "Value": "dragonball",
+                "Occurrence": 1
+            },
+            {
+                "Value": "aldnoahzero",
+                "Occurrence": 1
+            },
+            {
+                "Value": "bakonopiko",
+                "Occurrence": 1
+            },
+            {
+                "Value": "prettyboydetectiveagency",
+                "Occurrence": 1
+            },
+            {
+                "Value": "recordofragnarok",
+                "Occurrence": 1
+            }
+        ]
+    },
+    {
+        "Question": "Reasons people hate shoujo anime?",
+        "Answers": [
+            {
+                "Value": "theythinkittoo\"girly\"",
+                "Occurrence": 1
+            },
+            {
+                "Value": "cooties",
+                "Occurrence": 1
+            },
+            {
+                "Value": "theyhatewomen",
+                "Occurrence": 1
+            },
+            {
+                "Value": "they\u2019renotwatchingthegoodones",
+                "Occurrence": 1
+            },
+            {
+                "Value": "theydon'tliketoseeothershappywhentheyaren't",
+                "Occurrence": 1
+            },
+            {
+                "Value": "nolovelife(0b!tch3s)",
+                "Occurrence": 1
+            },
+            {
+                "Value": "becausetheyaregay",
+                "Occurrence": 1
+            },
+            {
+                "Value": "romancetroupes",
+                "Occurrence": 1
+            },
+            {
+                "Value": "allergictopollen(allthecherryblossoms)",
+                "Occurrence": 1
+            },
+            {
+                "Value": "maybebecausetheycangettooanimeyishtothepointitscringe?",
+                "Occurrence": 1
+            },
+            {
+                "Value": "misogynyultimately\u2026allthereasonsboildowntothat",
+                "Occurrence": 1
+            },
+            {
+                "Value": "nan",
+                "Occurrence": 7
+            },
+            {
+                "Value": "shortattentionspans/loseattentionbecausenofights",
+                "Occurrence": 1
+            },
+            {
+                "Value": "noaction",
+                "Occurrence": 1
+            },
+            {
+                "Value": "theylookfunny",
+                "Occurrence": 1
+            },
+            {
+                "Value": "tooslow",
+                "Occurrence": 1
+            },
+            {
+                "Value": "boringmc",
+                "Occurrence": 1
+            },
+            {
+                "Value": "themaleleadsbeweird",
+                "Occurrence": 1
+            },
+            {
+                "Value": "toocute",
+                "Occurrence": 1
+            },
+            {
+                "Value": "nofighting",
+                "Occurrence": 2
+            },
+            {
+                "Value": "annoyingmc",
+                "Occurrence": 1
+            },
+            {
+                "Value": "drama",
+                "Occurrence": 1
+            },
+            {
+                "Value": "misogyny",
+                "Occurrence": 3
+            },
+            {
+                "Value": "focusonwomenleads",
+                "Occurrence": 1
+            },
+            {
+                "Value": "girly",
+                "Occurrence": 1
+            },
+            {
+                "Value": "sometimescreepy",
+                "Occurrence": 1
+            },
+            {
+                "Value": "weakfemaleprotagonist",
+                "Occurrence": 1
+            },
+            {
+                "Value": "toogirly",
+                "Occurrence": 1
+            },
+            {
+                "Value": "becauseit\u2019sgirly",
+                "Occurrence": 1
+            },
+            {
+                "Value": "notenoughaction",
+                "Occurrence": 1
+            },
+            {
+                "Value": "they\u2019reinhighschool",
+                "Occurrence": 1
+            }
+        ],
+        "Top8": [
+            {
+                "Value": "nan",
+                "Occurrence": 7
+            },
+            {
+                "Value": "misogyny",
+                "Occurrence": 3
+            },
+            {
+                "Value": "nofighting",
+                "Occurrence": 2
+            },
+            {
+                "Value": "theythinkittoo\"girly\"",
+                "Occurrence": 1
+            },
+            {
+                "Value": "cooties",
+                "Occurrence": 1
+            },
+            {
+                "Value": "theyhatewomen",
+                "Occurrence": 1
+            },
+            {
+                "Value": "they\u2019renotwatchingthegoodones",
+                "Occurrence": 1
+            },
+            {
+                "Value": "theydon'tliketoseeothershappywhentheyaren't",
+                "Occurrence": 1
+            }
+        ]
+    },
+    {
+        "Question": "Stinkiest fandom",
+        "Answers": [
+            {
+                "Value": "myheroacademia",
+                "Occurrence": 4
+            },
+            {
+                "Value": "attackontitan",
+                "Occurrence": 3
+            },
+            {
+                "Value": "bibleblackfans\ud83e\udd23",
+                "Occurrence": 1
+            },
+            {
+                "Value": "myheroacadamia",
+                "Occurrence": 1
+            },
+            {
+                "Value": "bokunohero",
+                "Occurrence": 1
+            },
+            {
+                "Value": "naruto",
+                "Occurrence": 3
+            },
+            {
+                "Value": "southpark",
+                "Occurrence": 1
+            },
+            {
+                "Value": "alsoheroacademia(whyisblood-fetishevenathing!?)",
+                "Occurrence": 1
+            },
+            {
+                "Value": "osomatsusan",
+                "Occurrence": 1
+            },
+            {
+                "Value": "pokemon",
+                "Occurrence": 1
+            },
+            {
+                "Value": "congoersonthelastdayofacon",
+                "Occurrence": 1
+            },
+            {
+                "Value": "berserk",
+                "Occurrence": 1
+            },
+            {
+                "Value": "mha",
+                "Occurrence": 3
+            },
+            {
+                "Value": "nan",
+                "Occurrence": 6
+            },
+            {
+                "Value": "hellavaboss",
+                "Occurrence": 1
+            },
+            {
+                "Value": "leagueoflegends",
+                "Occurrence": 1
+            },
+            {
+                "Value": "dragonball",
+                "Occurrence": 2
+            },
+            {
+                "Value": "dragonballz",
+                "Occurrence": 2
+            },
+            {
+                "Value": "chainsawman",
+                "Occurrence": 1
+            },
+            {
+                "Value": "hetalia",
+                "Occurrence": 2
+            },
+            {
+                "Value": "swordartonline",
+                "Occurrence": 1
+            },
+            {
+                "Value": "attackontitanfandom",
+                "Occurrence": 1
+            },
+            {
+                "Value": "onepiece",
+                "Occurrence": 1
+            }
+        ],
+        "Top8": [
+            {
+                "Value": "nan",
+                "Occurrence": 6
+            },
+            {
+                "Value": "myheroacademia",
+                "Occurrence": 4
+            },
+            {
+                "Value": "attackontitan",
+                "Occurrence": 3
+            },
+            {
+                "Value": "naruto",
+                "Occurrence": 3
+            },
+            {
+                "Value": "mha",
+                "Occurrence": 3
+            },
+            {
+                "Value": "dragonball",
+                "Occurrence": 2
+            },
+            {
+                "Value": "dragonballz",
+                "Occurrence": 2
+            },
+            {
+                "Value": "hetalia",
+                "Occurrence": 2
+            }
+        ]
+    },
+    {
+        "Question": "Most useless character",
+        "Answers": [
+            {
+                "Value": "sakura",
+                "Occurrence": 6
+            },
+            {
+                "Value": "futoshiharada",
+                "Occurrence": 1
+            },
+            {
+                "Value": "hinata",
+                "Occurrence": 1
+            },
+            {
+                "Value": "sakura(lol)",
+                "Occurrence": 1
+            },
+            {
+                "Value": "illumi",
+                "Occurrence": 1
+            },
+            {
+                "Value": "orihimie(blech)",
+                "Occurrence": 1
+            },
+            {
+                "Value": "mineta",
+                "Occurrence": 1
+            },
+            {
+                "Value": "yamcha",
+                "Occurrence": 2
+            },
+            {
+                "Value": "sakurainognaruto(notinshippudenorboruto)",
+                "Occurrence": 1
+            },
+            {
+                "Value": "tentenfromnaruto",
+                "Occurrence": 1
+            },
+            {
+                "Value": "aqua",
+                "Occurrence": 1
+            },
+            {
+                "Value": "nan",
+                "Occurrence": 6
+            },
+            {
+                "Value": "kusakabe",
+                "Occurrence": 1
+            },
+            {
+                "Value": "mineta-myheroacademia",
+                "Occurrence": 1
+            },
+            {
+                "Value": "minetafrommyheroacademia",
+                "Occurrence": 1
+            },
+            {
+                "Value": "tenten",
+                "Occurrence": 1
+            },
+            {
+                "Value": "joeywheeler",
+                "Occurrence": 1
+            },
+            {
+                "Value": "ecchiprotagonists",
+                "Occurrence": 1
+            },
+            {
+                "Value": "zenitsu",
+                "Occurrence": 2
+            },
+            {
+                "Value": "orihime",
+                "Occurrence": 2
+            },
+            {
+                "Value": "meilingli(cardcaptorsakura)",
+                "Occurrence": 1
+            },
+            {
+                "Value": "zenitsuagatsuma",
+                "Occurrence": 1
+            },
+            {
+                "Value": "happyfromfairytail",
+                "Occurrence": 1
+            },
+            {
+                "Value": "tuxedomaskfromsailormoon",
+                "Occurrence": 1
+            },
+            {
+                "Value": "monkeykingemma",
+                "Occurrence": 1
+            },
+            {
+                "Value": "usopp",
+                "Occurrence": 1
+            },
+            {
+                "Value": "krillen",
+                "Occurrence": 1
+            }
+        ],
+        "Top8": [
+            {
+                "Value": "sakura",
+                "Occurrence": 6
+            },
+            {
+                "Value": "nan",
+                "Occurrence": 6
+            },
+            {
+                "Value": "yamcha",
+                "Occurrence": 2
+            },
+            {
+                "Value": "zenitsu",
+                "Occurrence": 2
+            },
+            {
+                "Value": "orihime",
+                "Occurrence": 2
+            },
+            {
+                "Value": "futoshiharada",
+                "Occurrence": 1
+            },
+            {
+                "Value": "hinata",
+                "Occurrence": 1
+            },
+            {
+                "Value": "sakura(lol)",
+                "Occurrence": 1
+            }
+        ]
+    },
+    {
+        "Question": "Worst Ship",
+        "Answers": [
+            {
+                "Value": "luffyandnami",
+                "Occurrence": 1
+            },
+            {
+                "Value": "sakura&sasuke",
+                "Occurrence": 1
+            },
+            {
+                "Value": "sasukexsakura",
+                "Occurrence": 4
+            },
+            {
+                "Value": "onagaiteachersmh",
+                "Occurrence": 1
+            },
+            {
+                "Value": "bakugoxdeku",
+                "Occurrence": 1
+            },
+            {
+                "Value": "erenandmikasa",
+                "Occurrence": 1
+            },
+            {
+                "Value": "sasuke&sakura",
+                "Occurrence": 2
+            },
+            {
+                "Value": "dekuxbakugo",
+                "Occurrence": 1
+            },
+            {
+                "Value": "anygayshipbetweencannonicallystraightcharacters(todo-dekuforexample))",
+                "Occurrence": 1
+            },
+            {
+                "Value": "sakusasu",
+                "Occurrence": 1
+            },
+            {
+                "Value": "nan",
+                "Occurrence": 7
+            },
+            {
+                "Value": "anythinginfuturediaries",
+                "Occurrence": 1
+            },
+            {
+                "Value": "narutoandhinata",
+                "Occurrence": 1
+            },
+            {
+                "Value": "dekuandbakugo",
+                "Occurrence": 2
+            },
+            {
+                "Value": "gojo/getou",
+                "Occurrence": 1
+            },
+            {
+                "Value": "sasuke/sakura",
+                "Occurrence": 2
+            },
+            {
+                "Value": "satosugu(getoandgojo)",
+                "Occurrence": 1
+            },
+            {
+                "Value": "sakuraxsauske",
+                "Occurrence": 1
+            },
+            {
+                "Value": "sebastianciel",
+                "Occurrence": 1
+            },
+            {
+                "Value": "ichigoorihime",
+                "Occurrence": 1
+            },
+            {
+                "Value": "gojoxitadori",
+                "Occurrence": 1
+            },
+            {
+                "Value": "josuhan(josukexrohan;jojop4)",
+                "Occurrence": 1
+            },
+            {
+                "Value": "sauskexsakura",
+                "Occurrence": 1
+            },
+            {
+                "Value": "sakuraandsasukefromnaruto",
+                "Occurrence": 1
+            },
+            {
+                "Value": "bakugoxuraraka",
+                "Occurrence": 1
+            },
+            {
+                "Value": "sesshomaruandrin",
+                "Occurrence": 1
+            },
+            {
+                "Value": "???",
+                "Occurrence": 1
+            },
+            {
+                "Value": "anyoldercharacterxchildfrommyhero",
+                "Occurrence": 1
+            }
+        ],
+        "Top8": [
+            {
+                "Value": "nan",
+                "Occurrence": 7
+            },
+            {
+                "Value": "sasukexsakura",
+                "Occurrence": 4
+            },
+            {
+                "Value": "sasuke&sakura",
+                "Occurrence": 2
+            },
+            {
+                "Value": "dekuandbakugo",
+                "Occurrence": 2
+            },
+            {
+                "Value": "sasuke/sakura",
+                "Occurrence": 2
+            },
+            {
+                "Value": "luffyandnami",
+                "Occurrence": 1
+            },
+            {
+                "Value": "sakura&sasuke",
+                "Occurrence": 1
+            },
+            {
+                "Value": "onagaiteachersmh",
+                "Occurrence": 1
+            }
+        ]
+    },
+    {
+        "Question": "Anime that Twitter hates the most",
+        "Answers": [
+            {
+                "Value": "fairytail",
+                "Occurrence": 1
+            },
+            {
+                "Value": "dragonballz",
+                "Occurrence": 2
+            },
+            {
+                "Value": "boruto",
+                "Occurrence": 5
+            },
+            {
+                "Value": "blackclover",
+                "Occurrence": 1
+            },
+            {
+                "Value": "myheroacadamia",
+                "Occurrence": 1
+            },
+            {
+                "Value": "jujutsukaisen",
+                "Occurrence": 4
+            },
+            {
+                "Value": "myheroacademia",
+                "Occurrence": 2
+            },
+            {
+                "Value": "bleach",
+                "Occurrence": 1
+            },
+            {
+                "Value": "maybeswordartonline,iknowpeoplewholikeitbutalotofotherpeoplesayingitsbad.",
+                "Occurrence": 1
+            },
+            {
+                "Value": "swordartonline",
+                "Occurrence": 1
+            },
+            {
+                "Value": "nan",
+                "Occurrence": 9
+            },
+            {
+                "Value": "gushingovermagicalgirls",
+                "Occurrence": 1
+            },
+            {
+                "Value": "tokyorevengers",
+                "Occurrence": 1
+            },
+            {
+                "Value": "domesticgirlfriend",
+                "Occurrence": 1
+            },
+            {
+                "Value": "aot",
+                "Occurrence": 1
+            },
+            {
+                "Value": "hetalia",
+                "Occurrence": 1
+            },
+            {
+                "Value": "mushokutensei",
+                "Occurrence": 1
+            },
+            {
+                "Value": "konosuba",
+                "Occurrence": 1
+            },
+            {
+                "Value": "demonslayer",
+                "Occurrence": 1
+            },
+            {
+                "Value": "onepiece",
+                "Occurrence": 1
+            },
+            {
+                "Value": "dragonballornaruto",
+                "Occurrence": 1
+            },
+            {
+                "Value": "???(don\u2019thaveatwittersoidk)",
+                "Occurrence": 1
+            },
+            {
+                "Value": "mha",
+                "Occurrence": 1
+            }
+        ],
+        "Top8": [
+            {
+                "Value": "nan",
+                "Occurrence": 9
+            },
+            {
+                "Value": "boruto",
+                "Occurrence": 5
+            },
+            {
+                "Value": "jujutsukaisen",
+                "Occurrence": 4
+            },
+            {
+                "Value": "dragonballz",
+                "Occurrence": 2
+            },
+            {
+                "Value": "myheroacademia",
+                "Occurrence": 2
+            },
+            {
+                "Value": "fairytail",
+                "Occurrence": 1
+            },
+            {
+                "Value": "blackclover",
+                "Occurrence": 1
+            },
+            {
+                "Value": "myheroacadamia",
+                "Occurrence": 1
+            }
+        ]
+    },
+    {
+        "Question": "Character that is most likely to ghost you",
+        "Answers": [
+            {
+                "Value": "aizenfrombleach",
+                "Occurrence": 1
+            },
+            {
+                "Value": "haku",
+                "Occurrence": 1
+            },
+            {
+                "Value": "sasuke",
+                "Occurrence": 7
+            },
+            {
+                "Value": "kyo(fb)",
+                "Occurrence": 1
+            },
+            {
+                "Value": "lightyagami(deathnote)",
+                "Occurrence": 1
+            },
+            {
+                "Value": "yusuke",
+                "Occurrence": 1
+            },
+            {
+                "Value": "nami",
+                "Occurrence": 1
+            },
+            {
+                "Value": "saikik.",
+                "Occurrence": 1
+            },
+            {
+                "Value": "goku",
+                "Occurrence": 1
+            },
+            {
+                "Value": "yuukifromfuturediaries",
+                "Occurrence": 1
+            },
+            {
+                "Value": "nan",
+                "Occurrence": 4
+            },
+            {
+                "Value": "zoro",
+                "Occurrence": 2
+            },
+            {
+                "Value": "gojo",
+                "Occurrence": 6
+            },
+            {
+                "Value": "toji",
+                "Occurrence": 1
+            },
+            {
+                "Value": "ichigo",
+                "Occurrence": 1
+            },
+            {
+                "Value": "light",
+                "Occurrence": 1
+            },
+            {
+                "Value": "bakugo",
+                "Occurrence": 1
+            },
+            {
+                "Value": "towerofgodgirl",
+                "Occurrence": 1
+            },
+            {
+                "Value": "aisen(bleach)",
+                "Occurrence": 1
+            },
+            {
+                "Value": "kurapika(hunterxhunter)",
+                "Occurrence": 1
+            },
+            {
+                "Value": "mikasa",
+                "Occurrence": 1
+            },
+            {
+                "Value": "makima",
+                "Occurrence": 1
+            },
+            {
+                "Value": "rengokufromdemonslayer",
+                "Occurrence": 1
+            },
+            {
+                "Value": "sesshomaru",
+                "Occurrence": 1
+            },
+            {
+                "Value": "revy",
+                "Occurrence": 1
+            }
+        ],
+        "Top8": [
+            {
+                "Value": "sasuke",
+                "Occurrence": 7
+            },
+            {
+                "Value": "gojo",
+                "Occurrence": 6
+            },
+            {
+                "Value": "nan",
+                "Occurrence": 4
+            },
+            {
+                "Value": "zoro",
+                "Occurrence": 2
+            },
+            {
+                "Value": "aizenfrombleach",
+                "Occurrence": 1
+            },
+            {
+                "Value": "haku",
+                "Occurrence": 1
+            },
+            {
+                "Value": "kyo(fb)",
+                "Occurrence": 1
+            },
+            {
+                "Value": "lightyagami(deathnote)",
+                "Occurrence": 1
+            }
+        ]
+    },
+    {
+        "Question": "Best Girl",
+        "Answers": [
+            {
+                "Value": "nicorobin",
+                "Occurrence": 1
+            },
+            {
+                "Value": "cynthia",
+                "Occurrence": 1
+            },
+            {
+                "Value": "anyaforger",
+                "Occurrence": 1
+            },
+            {
+                "Value": "hinata",
+                "Occurrence": 2
+            },
+            {
+                "Value": "kyokohonda",
+                "Occurrence": 1
+            },
+            {
+                "Value": "zoro(onepiece)...how'dhegethere?",
+                "Occurrence": 1
+            },
+            {
+                "Value": "power",
+                "Occurrence": 1
+            },
+            {
+                "Value": "yoruichishihouin",
+                "Occurrence": 1
+            },
+            {
+                "Value": "kuronumasawako",
+                "Occurrence": 1
+            },
+            {
+                "Value": "maybeshikimori,thatgirlseemsalmostliketheperfectgirlfriendduetobeingcaringandextroverted(isayalmostbecauseiamnotsureifsheisagamer)",
+                "Occurrence": 1
+            },
+            {
+                "Value": "rinhoshizora",
+                "Occurrence": 1
+            },
+            {
+                "Value": "nan",
+                "Occurrence": 8
+            },
+            {
+                "Value": "fiecaussell",
+                "Occurrence": 1
+            },
+            {
+                "Value": "makifromjjk",
+                "Occurrence": 1
+            },
+            {
+                "Value": "alfonso",
+                "Occurrence": 1
+            },
+            {
+                "Value": "canary-hunterxhunter",
+                "Occurrence": 1
+            },
+            {
+                "Value": "nami",
+                "Occurrence": 1
+            },
+            {
+                "Value": "mikasa",
+                "Occurrence": 1
+            },
+            {
+                "Value": "frieren",
+                "Occurrence": 1
+            },
+            {
+                "Value": "anya",
+                "Occurrence": 1
+            },
+            {
+                "Value": "nobara",
+                "Occurrence": 1
+            },
+            {
+                "Value": "zoro",
+                "Occurrence": 1
+            },
+            {
+                "Value": "makaalburn",
+                "Occurrence": 1
+            },
+            {
+                "Value": "nezuko(demonslayer)",
+                "Occurrence": 1
+            },
+            {
+                "Value": "jolynekujo",
+                "Occurrence": 1
+            },
+            {
+                "Value": "nanoshinonome",
+                "Occurrence": 2
+            },
+            {
+                "Value": "ladymereoleona",
+                "Occurrence": 1
+            },
+            {
+                "Value": "marinkitagawafrommydress-updarling",
+                "Occurrence": 1
+            },
+            {
+                "Value": "sailormercury",
+                "Occurrence": 1
+            },
+            {
+                "Value": "yoruichi",
+                "Occurrence": 1
+            },
+            {
+                "Value": "hinta",
+                "Occurrence": 1
+            }
+        ],
+        "Top8": [
+            {
+                "Value": "nan",
+                "Occurrence": 8
+            },
+            {
+                "Value": "hinata",
+                "Occurrence": 2
+            },
+            {
+                "Value": "nanoshinonome",
+                "Occurrence": 2
+            },
+            {
+                "Value": "nicorobin",
+                "Occurrence": 1
+            },
+            {
+                "Value": "cynthia",
+                "Occurrence": 1
+            },
+            {
+                "Value": "anyaforger",
+                "Occurrence": 1
+            },
+            {
+                "Value": "kyokohonda",
+                "Occurrence": 1
+            },
+            {
+                "Value": "zoro(onepiece)...how'dhegethere?",
+                "Occurrence": 1
+            }
+        ]
+    },
+    {
+        "Question": "Best Boi",
+        "Answers": [
+            {
+                "Value": "roronoazoro",
+                "Occurrence": 1
+            },
+            {
+                "Value": "denji",
+                "Occurrence": 1
+            },
+            {
+                "Value": "itadori",
+                "Occurrence": 1
+            },
+            {
+                "Value": "yangwenli",
+                "Occurrence": 1
+            },
+            {
+                "Value": "gon",
+                "Occurrence": 1
+            },
+            {
+                "Value": "boji(rankingofkings)",
+                "Occurrence": 1
+            },
+            {
+                "Value": "okuyasu",
+                "Occurrence": 1
+            },
+            {
+                "Value": "vashthestampede",
+                "Occurrence": 1
+            },
+            {
+                "Value": "inosuke",
+                "Occurrence": 1
+            },
+            {
+                "Value": "orewamonkeyd.luffy",
+                "Occurrence": 1
+            },
+            {
+                "Value": "shikamarufromnaruto\u263a\ufe0f",
+                "Occurrence": 1
+            },
+            {
+                "Value": "nan",
+                "Occurrence": 8
+            },
+            {
+                "Value": "edwardelric",
+                "Occurrence": 2
+            },
+            {
+                "Value": "yujifromjjk",
+                "Occurrence": 1
+            },
+            {
+                "Value": "gojo",
+                "Occurrence": 1
+            },
+            {
+                "Value": "hinatafromhaikyuu",
+                "Occurrence": 1
+            },
+            {
+                "Value": "boji",
+                "Occurrence": 1
+            },
+            {
+                "Value": "yuji",
+                "Occurrence": 1
+            },
+            {
+                "Value": "goku",
+                "Occurrence": 1
+            },
+            {
+                "Value": "luffy",
+                "Occurrence": 2
+            },
+            {
+                "Value": "hinatashouyo",
+                "Occurrence": 1
+            },
+            {
+                "Value": "zenitsubuttheanimehasntgottenthereyet",
+                "Occurrence": 1
+            },
+            {
+                "Value": "inuyasha",
+                "Occurrence": 1
+            },
+            {
+                "Value": "deku",
+                "Occurrence": 2
+            },
+            {
+                "Value": "shigeokageyama(mobpsycho100)",
+                "Occurrence": 1
+            },
+            {
+                "Value": "yurio",
+                "Occurrence": 1
+            },
+            {
+                "Value": "tanjiro",
+                "Occurrence": 1
+            },
+            {
+                "Value": "monkeyd.luffyfromonepiece",
+                "Occurrence": 1
+            },
+            {
+                "Value": "chopper",
+                "Occurrence": 1
+            },
+            {
+                "Value": "usui",
+                "Occurrence": 1
+            }
+        ],
+        "Top8": [
+            {
+                "Value": "nan",
+                "Occurrence": 8
+            },
+            {
+                "Value": "edwardelric",
+                "Occurrence": 2
+            },
+            {
+                "Value": "luffy",
+                "Occurrence": 2
+            },
+            {
+                "Value": "deku",
+                "Occurrence": 2
+            },
+            {
+                "Value": "roronoazoro",
+                "Occurrence": 1
+            },
+            {
+                "Value": "denji",
+                "Occurrence": 1
+            },
+            {
+                "Value": "itadori",
+                "Occurrence": 1
+            },
+            {
+                "Value": "yangwenli",
+                "Occurrence": 1
+            }
+        ]
+    }
+]
