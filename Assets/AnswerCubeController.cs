@@ -38,26 +38,74 @@ public class AnswerCubeController : MonoBehaviour
     private Answer answer;
 
     public int PointScore { get; private set; }
-    
-    
 
-    
 
+
+    private bool shouldDispalyAnswer = false;
+
+    public void HandleNewQuestions(object question)
+    {
+        Questionnaire ques = HelperFunctions.CastObject<Questionnaire>(question);
+        answer = ques.Top8[orderNumber];
+        answerText.text = answer.ToString();
+        PointScore = answer.Occurrence;
+        respondantCountText.text = PointScore.ToString();
+        Rotate(false);
+    }
     public void NumkeyPressedHandler(object numKey)
     {
         int numberPressed = (int)numKey;
         HelperFunctions.Log($"The Number key was pressed: {numberPressed}");
+        if(numberPressed == orderNumber)
+        {
+            Rotate(true);
+        }
     }
 
     // Start is called before the first frame update
     void Start()
     {
-        
+        respondantCountText.enabled = false;
+        answerText.enabled = false;
     }
 
     // Update is called once per frame
     void Update()
     {
+        if(shouldDispalyAnswer) 
+        {
+            respondantCountText.enabled = true;
+            answerText.enabled = true;
+            shouldDispalyAnswer = false;
+        }
+    }
+
+    private void Rotate(bool isStandardReveal)
+    {
+        
+        if(isStandardReveal)
+        {
+            shouldDispalyAnswer = true;
+            transform.DORotate(new Vector3 { x = -90, y = 0, z = 0 }, 1.5f)
+            .OnComplete(() => { PlayAudio(isStandardReveal); });
+        }
+        else
+        {
+            transform.DORotate(new Vector3 { x = 720, y = 0, z = 0 }, 1.5f)
+            .OnComplete(() => { PlayAudio(isStandardReveal); });
+        }
+    }
+
+    void PlayAudio(bool shouldPlayNormal)
+    {
+        if(shouldPlayNormal)
+        {
+            revealAudioSource.Play();
+        }
+        else
+        {
+            revealAudioSource.DOPlayBackwards();
+        }
         
     }
 
@@ -68,6 +116,7 @@ public class AnswerCubeController : MonoBehaviour
         answer = c.answer;
         answerText.text = answer.Value;
         PointScore = answer.Occurrence;
+        respondantCountText.text = PointScore.ToString();  
 
     }
 }

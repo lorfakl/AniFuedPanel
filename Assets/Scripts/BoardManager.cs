@@ -99,6 +99,7 @@ public class BoardManager : MonoBehaviour
             usedIndices.Add(randomIndex);
 
             Debug.Log("Selected index: " + JsonParser.Questionnaire[randomIndex].Question);
+            questionText.text = JsonParser.Questionnaire[randomIndex].Question;
             nextQuestion.Raise(JsonParser.Questionnaire[randomIndex]);
             HelperFunctions.Log("Questionare obj sent out on Raise Next Question event");
         }
